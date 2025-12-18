@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **react,js,front-end development**
 
-- 📫 How to reach me **lovepreetsingh1223@gmail.com**
+- 📫 How to reach me **urkumarravi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
