@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
+<h1 align="center">Hi </h1>
 <h3 align="center">I'm a self-taught developer skilled in crafting user-friendly and functional websites and applications. My expertise lies in front-end development, and I've got a solid grasp of backend concepts too. Currently, I'm diving into the realms of basic cloud computing and DevOps technologies.</h3>
  <img src="https://static.planetminecraft.com/files/resource_media/screenshot/13369601-wsosc_lrg.jpg" alt="Coding" width="400"/> 
    
